@@ -1,0 +1,3 @@
+﻿  problem#16.cpp
+C:\Users\ahmed\source\repos\problem#16\problem#16\problem#16.cpp(6,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  problem#16.vcxproj -> C:\Users\ahmed\source\repos\problem#16\x64\Debug\problem#16.exe

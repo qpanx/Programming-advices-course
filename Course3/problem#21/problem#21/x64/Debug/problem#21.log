@@ -1,0 +1,4 @@
+﻿  problem#21.cpp
+C:\Users\ahmed\source\repos\problem#21\problem#21\problem#21.cpp(6,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\problem#21\problem#21\problem#21.cpp(17,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  problem#21.vcxproj -> C:\Users\ahmed\source\repos\problem#21\x64\Debug\problem#21.exe

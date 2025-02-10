@@ -1,3 +1,0 @@
-﻿  problem#17.cpp
-C:\Users\ahmed\source\repos\problem(10,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-  problem#17.vcxproj -> C:\Users\ahmed\source\repos\problem#17\problem#17\x64\Debug\problem#17.exe

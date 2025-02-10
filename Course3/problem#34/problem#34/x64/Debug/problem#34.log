@@ -1,0 +1,6 @@
+﻿  problem#34.cpp
+C:\Users\ahmed\source\repos\problem#34\problem#34\problem#34.cpp(11,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\problem#34\problem#34\problem#34.cpp(15,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\problem#34\problem#34\problem#34.cpp(19,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\source\repos\problem#34\problem#34\problem#34.cpp(23,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  problem#34.vcxproj -> C:\Users\ahmed\source\repos\problem#34\x64\Debug\problem#34.exe

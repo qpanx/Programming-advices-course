@@ -1,0 +1,14 @@
+﻿  problem#4CourseSolution.cpp
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(9,8): error C2146: syntax error: missing ';' before identifier 'ReadInfo'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(9,17): error C2059: syntax error: ')'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(9,19): error C2143: syntax error: missing ';' before '{'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(9,19): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(21,24): error C2146: syntax error: missing ')' before identifier 'Info'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(21,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(21,30): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(25,6): error C2182: 'PrintResult': this use of 'void' is not valid
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(25,25): error C2146: syntax error: missing ')' before identifier 'Info'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(25,31): error C2143: syntax error: missing ';' before '{'
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(25,31): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(37,14): error C3861: 'ReadInfo': identifier not found
+C:\Users\ahmed\source\repos\problem#4CourseSolution\problem#4CourseSolution\problem#4CourseSolution.cpp(37,2): error C2064: term does not evaluate to a function taking 1 arguments

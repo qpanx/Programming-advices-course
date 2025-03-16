@@ -1,0 +1,4 @@
+﻿  problem#22MySolution.cpp
+C:\Users\ahmed\source\repos\problem#22MySolution\problem#22MySolution\problem#22MySolution.cpp(14,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmed\source\repos\problem#22MySolution\problem#22MySolution\problem#22MySolution.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  problem#22MySolution.vcxproj -> C:\Users\ahmed\source\repos\problem#22MySolution\x64\Debug\problem#22MySolution.exe

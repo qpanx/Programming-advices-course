@@ -1,0 +1,3 @@
+﻿  problem#18MySolution.cpp
+C:\Users\ahmed\source\repos\problem#18MySolution\problem#18MySolution\problem#18MySolution.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  problem#18MySolution.vcxproj -> C:\Users\ahmed\source\repos\problem#18MySolution\x64\Debug\problem#18MySolution.exe

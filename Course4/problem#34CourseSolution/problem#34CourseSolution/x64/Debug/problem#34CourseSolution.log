@@ -1,0 +1,7 @@
+﻿  problem#34CourseSolution.cpp
+C:\Users\ahmed\source\repos\problem#34CourseSolution\problem#34CourseSolution\problem#34CourseSolution.cpp(14,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\ahmed\source\repos\problem#34CourseSolution\problem#34CourseSolution\problem#34CourseSolution.cpp(16,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\ahmed\source\repos\problem#34CourseSolution\problem#34CourseSolution\problem#34CourseSolution.cpp(18,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\ahmed\source\repos\problem#34CourseSolution\problem#34CourseSolution\problem#34CourseSolution.cpp(20,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\ahmed\source\repos\problem#34CourseSolution\problem#34CourseSolution\problem#34CourseSolution.cpp(31,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  problem#34CourseSolution.vcxproj -> C:\Users\ahmed\source\repos\problem#34CourseSolution\x64\Debug\problem#34CourseSolution.exe

@@ -1,0 +1,4 @@
+﻿  problem#42MySolution.cpp
+C:\Users\ahmed\source\repos\problem#42MySolution\problem#42MySolution\problem#42MySolution.cpp(14,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\problem#42MySolution\problem#42MySolution\problem#42MySolution.cpp(19,1): error C2632: 'float' followed by 'int' is illegal
+C:\Users\ahmed\source\repos\problem#42MySolution\problem#42MySolution\problem#42MySolution.cpp(21,12): warning C4244: 'return': conversion from 'unsigned int' to 'float', possible loss of data

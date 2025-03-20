@@ -1,0 +1,4 @@
+﻿  problem#40CourseSolution.cpp
+C:\Users\ahmed\source\repos\problem#40CourseSolution\problem#40CourseSolution\problem#40CourseSolution.cpp(14,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\problem#40CourseSolution\problem#40CourseSolution\problem#40CourseSolution.cpp(15,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  problem#40CourseSolution.vcxproj -> C:\Users\ahmed\source\repos\problem#40CourseSolution\x64\Debug\problem#40CourseSolution.exe

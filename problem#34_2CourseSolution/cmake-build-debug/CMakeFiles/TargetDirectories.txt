@@ -1,3 +1,0 @@
-/Users/waelmaarouf/Desktop/Ahmed/C++/CourseC++/problem#34_2CourseSolution/cmake-build-debug/CMakeFiles/problem_34_2CourseSolution.dir
-/Users/waelmaarouf/Desktop/Ahmed/C++/CourseC++/problem#34_2CourseSolution/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/waelmaarouf/Desktop/Ahmed/C++/CourseC++/problem#34_2CourseSolution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
